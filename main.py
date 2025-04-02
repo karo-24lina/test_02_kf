@@ -1,1 +1,1 @@
-print('kocham WAT')
+print('kocham wat')
